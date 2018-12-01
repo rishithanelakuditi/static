@@ -1,0 +1,41 @@
+{
+  "carrer":{
+    "info":"To  work  in  an  environment"
+            },
+            "education":[
+              {
+                "degree":"B.tech(IT)",
+                "institution":"Vignan Nirula",
+                "yop":"2020",
+                "percentage":"80"
+              },
+              {
+              "degree":"Inter",
+              "institution":"Srichaitanya",
+              "yop":"2016",
+              "percentage":"60"
+            },
+            {
+              "degree":"SSC",
+              "institution":"Gowtham  Concept School",
+              "yop":"2014",
+              "percentage":"8.0"
+            }
+
+          ],
+          "Skills":[
+            {
+              "title":"Platforms",
+              "Content":"windows,Linux"
+            },
+            {
+            "title":"Programming  Language",
+            "Content":"c,Java,Html,Css"
+          },
+          {
+          "title":"Database",
+          "Content":"Plsql,mysql"
+        }
+      ],
+      "languages":"telugu,English,Hindi"
+}
